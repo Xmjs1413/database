@@ -1,0 +1,2 @@
+1、修改start.sh中的gunicorn配置文件路径，工程路径
+2、通过sh start.sh来启动app
